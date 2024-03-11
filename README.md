@@ -352,6 +352,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Lisa Blunt](https://lisablunt.github.io)
 - [Lisa Savoie](http://lscodes.com)
 - [Liz Lam](https://lizlam.github.io)
+- [Lokesh_Ambarapu](https://lokeshambarapu.github.io/).
 - [Long Do](https://longpdo.github.io)
 - [LoveCodingWithAshu](https://lovecodingwithashu.tech)
 - [Luca Lischetti](https://sirlisko.com)
